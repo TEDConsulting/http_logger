@@ -1,6 +1,6 @@
 name: http_logger
 description: A logging middleware for Dart's http module.
-version: 0.0.2
+version: 0.0.3
 author: Gurleen Sethi <sarusethi@rocketmail.com>
 homepage: http://www.github.com/gurleensethi
 

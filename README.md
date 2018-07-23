@@ -4,7 +4,7 @@ A logging middleware for Dart's http module.
 
 ### Usage
 
-`http_logger` use the [`http_middleware`](https://pub.dartlang.org/packages/http_middleware#-readme-tab-) package to 
+`http_logger` uses the [`http_middleware`](https://pub.dartlang.org/packages/http_middleware#-readme-tab-) package to 
 implement logging. 
 
 Add the [`http_middleware`](https://pub.dartlang.org/packages/http_middleware#-readme-tab-) and `http_logger` in your project.
@@ -32,4 +32,5 @@ There are different log levels that you can use.
 LogLevel.BODY
 LogLevel.HEADER
 LogLevel.BASIC
+LogLevel.NONE
 ```
