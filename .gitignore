@@ -11,3 +11,5 @@ ios/Runner/GeneratedPluginRegistrant.*
 
 exmaple/
 exmaple/example.dart
+
+build/
