@@ -1,108 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4441d574-5499-4fb2-8f97-f3a0366a6dd4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/example/build/android-profile/profile-2018-07-20-01-30-48-683.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/android-profile/profile-2018-07-20-01-30-48-683.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/android-profile/profile-2018-07-20-01-31-02-852.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/android-profile/profile-2018-07-20-01-31-02-852.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app.dill" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/generated/source/buildConfig/debug/com/example/example/BuildConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/generated/source/r/debug/com/example/example/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/assets/debug/flutter_assets/AssetManifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/assets/debug/flutter_assets/FontManifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/assets/debug/flutter_assets/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/assets/debug/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/assets/debug/flutter_assets/isolate_snapshot_data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/assets/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/assets/debug/flutter_assets/platform.dill" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/assets/debug/flutter_assets/vm_snapshot_data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/classes/debug/com/example/example/BuildConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/classes/debug/com/example/example/MainActivity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/classes/debug/com/example/example/R$drawable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/classes/debug/com/example/example/R$mipmap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/classes/debug/com/example/example/R$style.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/classes/debug/com/example/example/R.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/classes/debug/io/flutter/plugins/GeneratedPluginRegistrant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/AssetManifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/FontManifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/isolate_snapshot_data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/platform.dill" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/vm_snapshot_data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/snapshot_blob.bin.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/snapshot_blob.bin.d.fingerprint" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/flutter-x86.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/compileDebugAidl/dependency.store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/+lkIOTgi+GCEofa_fhgyWQUp_E0=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/MdnOfW+WKqoiCfrOVCBiCkcbgoQ=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJniLibs/merge-state" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJniLibs/zip-cache/+lkIOTgi+GCEofa_fhgyWQUp_E0=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJniLibs/zip-cache/MdnOfW+WKqoiCfrOVCBiCkcbgoQ=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/packageDebug/debug/zip-cache/+EL7Lens8ikIltx7WUKXBwPw7go=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/packageDebug/debug/zip-cache/tS+l+xL5RbdeZ8TdPUGX5ivoXrQ=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/javaPrecompile/debug/annotationProcessors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/manifests/density/debug/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/manifests/full/debug/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/manifests/full/debug/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/manifests/instant-run/debug/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/debug/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/debug/resources-debug.ap_" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/splits-support/debug/split-list.gson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/10/com/example/example/BuildConfig.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/10/com/example/example/MainActivity.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/10/com/example/example/R$drawable.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/10/com/example/example/R$mipmap.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/10/com/example/example/R$style.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/10/com/example/example/R.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/10/io/flutter/plugins/GeneratedPluginRegistrant.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexMerger/debug/0/classes.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexMerger/debug/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/externalLibsDexMerger/debug/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJavaRes/debug/0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJniLibs/debug/0/lib/arm64-v8a/libflutter.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJniLibs/debug/0/lib/x86/libflutter.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJniLibs/debug/0/lib/x86_64/libflutter.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/outputs/apk/app.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/outputs/apk/app.apk.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/outputs/apk/debug/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/tmp/flutterBuildX86Jar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/frontend_server.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/last_build_run.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/example.dart" afterDir="false" />
-    </list>
+    <list default="true" id="4441d574-5499-4fb2-8f97-f3a0366a6dd4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -120,19 +19,28 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="540">
-                <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <first_editor relative-caret-position="525">
+                <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pubspec.yaml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pubspec.yaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="30">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -161,15 +69,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/http_logger_test.dart" />
         <option value="$PROJECT_DIR$/lib/log_level.dart" />
         <option value="$PROJECT_DIR$/lib/logging_middleware.dart" />
         <option value="$PROJECT_DIR$/lib/logger.dart" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/lib/http_logger.dart" />
         <option value="$PROJECT_DIR$/example/example.dart" />
+        <option value="$PROJECT_DIR$/example/test.dart" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/test/http_logger_test.dart" />
       </list>
     </option>
   </component>
@@ -199,6 +108,11 @@
               <item name="http_logger" type="b2602c69:ProjectViewProjectNode" />
               <item name="http_logger" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="http_logger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="http_logger" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -373,9 +287,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example/test/widget_test.dart" />
-    <entry file="file://$PROJECT_DIR$/test/http_logger_test.dart">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/log_level.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -404,13 +315,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/logger.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1395">
@@ -425,11 +329,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/example/test.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <first_editor relative-caret-position="525">
+            <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           </first_editor>
           <second_editor />
         </state>
@@ -437,8 +344,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pubspec.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/http_logger_test.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
